@@ -1,0 +1,3 @@
+[submodule "themes/papermc"]
+	path = themes/papermc
+	url = https://github.com/nart4hire/PaperMCTheme.git

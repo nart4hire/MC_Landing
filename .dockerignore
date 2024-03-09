@@ -1,0 +1,6 @@
+public/
+resources/
+docker-compose.yml
+Dockerfile
+LICENSE
+README.md

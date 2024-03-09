@@ -1,0 +1,7 @@
+baseURL = 'https://mc.nathancs.dev/'
+languageCode = 'en-us'
+title = 'Minecraft Landing Site'
+theme = 'papermc'
+
+[params]
+  author = 'NathanCS'
