@@ -15,3 +15,5 @@ RUN hugo
 FROM rtsp/lighttpd
 
 COPY --from=builder /opt/site/public /var/www/html/
+
+COPY not-found.conf /etc/lighttpd/conf.d/not-found.conf
